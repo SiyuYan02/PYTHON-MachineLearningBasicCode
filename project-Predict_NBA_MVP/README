@@ -1,0 +1,16 @@
+##### oulier_MVP.py
+
+利用离群点-孤立森林算法求出常规赛每个赛季outstanding_player球员（设置为十名）作为MVP的候选人
+
+##### get_MVP.py
+
+随机森林算法得出MVP
+
+
+##### Predict_Game_L.py
+
+赛季比赛结果预测，Logistic回归
+
+##### Predict_Game_T.py
+
+赛季比赛结果预测，决策树
